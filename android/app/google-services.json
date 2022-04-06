@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "395300453106",
+    "project_id": "dogo-swag",
+    "storage_bucket": "dogo-swag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395300453106:android:c5f9de07d88ee8349f6e6b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.foodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395300453106-at7oltnidcboud0683ni4l258pfjtef7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgz7TVGOHlt6DelRJfhpj-VbcvJUABbME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395300453106-at7oltnidcboud0683ni4l258pfjtef7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395300453106-e0hpbgamo06mq28n46ib9hmh20ieku9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.foodbank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
